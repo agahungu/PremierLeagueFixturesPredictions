@@ -8,7 +8,7 @@ Predict all the next winners in the England Premier League Championship by using
 
 How to use it?
 
-1. Trough your CLI, Clone this repo with this command git clone https://github.com/agahungu/PremierLeagueFixturesPredictions.git
+1. Trough your CLI, Clone this repo with this command **_git clone https://github.com/agahungu/PremierLeagueFixturesPredictions.git_**
 2. Navigate to the directory with this command **_Cd PremierLeagueFixturesPredictions_**
 3. Run the main app with this command **_python predictNextWinners.py_**
 
