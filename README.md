@@ -12,7 +12,7 @@ How to use it?
 2. Navigate to the directory with this command **_Cd PremierLeagueFixturesPredictions_**
 3. Run the main app with this command **_python predictNextWinners.py_**
 
-Tech stack : Python 3.10, Jupyter Notebook
+Tech stack : Python 3.10, Jupyter Notebook <br>
 Librairies : os, pandas, matplotlib.pyplot, seaborn, Scikit-Learn, joblib, csv
 
 Datasets :
