@@ -17,10 +17,10 @@ Match: 23/11/2024 (Aston Villa VS Crystal Palace)
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 23/11/2024 (Everton VS Brentford)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Brentford: 0.3617796592490965
 
-BRENTFORD IS THE WINNER!
+EVERTON IS THE WINNER!
 ---------------------------------------
 Match: 23/11/2024 (Fulham VS Wolves)
    Fulham: 0.407650799706247
@@ -72,7 +72,7 @@ TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 01/12/2024 (Man United VS Everton)
    Man United: 0.38605667643019786
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
@@ -83,10 +83,10 @@ Match: 01/12/2024 (Liverpool VS Man City)
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 04/12/2024 (Everton VS Wolves)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Wolves: 0.35366549151612414
 
-WOLVES IS THE WINNER!
+EVERTON IS THE WINNER!
 ---------------------------------------
 Match: 04/12/2024 (Newcastle VS Liverpool)
    Newcastle: 0.4058622037695455
@@ -125,7 +125,7 @@ Match: 05/12/2024 (Bournemouth VS Tottenham)
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 07/12/2024 (Everton VS Liverpool)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
@@ -168,7 +168,7 @@ WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 14/12/2024 (Arsenal VS Everton)
    Arsenal: 0.4301392209506469
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
@@ -239,10 +239,10 @@ Match: 22/12/2024 (Man United VS Bournemouth)
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 22/12/2024 (Everton VS Chelsea)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Chelsea: 0.3500882996427212
 
-CHELSEA IS THE WINNER!
+EVERTON IS THE WINNER!
 ---------------------------------------
 Match: 22/12/2024 (Tottenham VS Liverpool)
    Tottenham: 0.5416870292042955
@@ -252,7 +252,7 @@ TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 26/12/2024 (Man City VS Everton)
    Man City: 0.7486197962634638
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
@@ -305,7 +305,7 @@ Match: 29/12/2024 (Fulham VS Bournemouth)
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 29/12/2024 (Everton VS Nott'm Forest)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
@@ -342,7 +342,7 @@ TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 04/01/2025 (Bournemouth VS Everton)
    Bournemouth: 0.38337378252514565
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
@@ -401,7 +401,7 @@ Match: 14/01/2025 (Nott'm Forest VS Liverpool)
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 15/01/2025 (Everton VS Aston Villa)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
@@ -449,7 +449,7 @@ Match: 19/01/2025 (Man United VS Brighton)
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 19/01/2025 (Everton VS Tottenham)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
@@ -468,7 +468,7 @@ ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 25/01/2025 (Brighton VS Everton)
    Brighton: 0.395065142131521
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
@@ -558,7 +558,7 @@ TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 15/02/2025 (Crystal Palace VS Everton)
    Crystal Palace: 0.31680281676029676
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 EVERTON IS THE WINNER!
 ---------------------------------------
@@ -629,16 +629,16 @@ Match: 22/02/2025 (Man City VS Liverpool)
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 22/02/2025 (Everton VS Man United)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Man United: 0.38605667643019786
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 25/02/2025 (Brentford VS Everton)
    Brentford: 0.3617796592490965
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
-BRENTFORD IS THE WINNER!
+EVERTON IS THE WINNER!
 ---------------------------------------
 Match: 25/02/2025 (Tottenham VS Man City)
    Tottenham: 0.5416870292042955
@@ -678,9 +678,9 @@ LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (Wolves VS Everton)
    Wolves: 0.35366549151612414
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
-WOLVES IS THE WINNER!
+EVERTON IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (West Ham VS Newcastle)
    West Ham: 0.39327654619481944
@@ -749,7 +749,7 @@ Match: 15/03/2025 (Man City VS Brighton)
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 15/03/2025 (Everton VS West Ham)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    West Ham: 0.39327654619481944
 
 WEST HAM IS THE WINNER!
@@ -798,7 +798,7 @@ NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 02/04/2025 (Liverpool VS Everton)
    Liverpool: 0.5291013716295695
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
@@ -827,7 +827,7 @@ Match: 05/04/2025 (Aston Villa VS Nott'm Forest)
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 05/04/2025 (Everton VS Arsenal)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
@@ -882,7 +882,7 @@ MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 12/04/2025 (Nott'm Forest VS Everton)
    Nott'm Forest: 0.4301392209506469
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
@@ -911,7 +911,7 @@ Match: 19/04/2025 (Crystal Palace VS Bournemouth)
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
 Match: 19/04/2025 (Everton VS Man City)
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
    Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
@@ -930,9 +930,9 @@ MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Chelsea VS Everton)
    Chelsea: 0.3500882996427212
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
-CHELSEA IS THE WINNER!
+EVERTON IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Man City VS Aston Villa)
    Man City: 0.7486197962634638
@@ -1032,7 +1032,7 @@ TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 10/05/2025 (Fulham VS Everton)
    Fulham: 0.407650799706247
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 FULHAM IS THE WINNER!
 ---------------------------------------
@@ -1116,7 +1116,7 @@ LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 25/05/2025 (Newcastle VS Everton)
    Newcastle: 0.4058622037695455
-   Everton: 0.31859141269699826
+   Everton: 0.363568255185798
 
 NEWCASTLE IS THE WINNER!
 ---------------------------------------
@@ -1150,5 +1150,3 @@ Match: 25/05/2025 (Tottenham VS Brighton)
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
-
-
