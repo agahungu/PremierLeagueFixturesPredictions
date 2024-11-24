@@ -12,7 +12,7 @@ How to use it?
 2. Navigate to the directory with this command **_Cd PremierLeagueFixturesPredictions_**
 3. Run the main app with this command **_python predictNextWinners.py_**
 
-Tech stack : Python 3.10, Jupyter Notebook <br>
+Tech stack : Python 3.10, Jupyter Notebook <br><br>
 Librairies : os, pandas, matplotlib.pyplot, seaborn, Scikit-Learn, joblib, csv
 
 Datasets :
@@ -26,7 +26,7 @@ Minutes: Total minutes played <br>
 Goals: Number of goals scored <br>
 Assists: Number of assists <br>
 Penalty Shoot on Goal: Penalty shots taken on goal <br>
-Penalty Shoot: Total penalty shots attempted  <br>
+Penalty Shoot: Total penalty shots attempted <br>
 Total Shoot: Total shots attempted <br>
 Shoot on Target: Shots successfully on target <br>
 Yellow Cards: Number of yellow cards received <br>
@@ -52,20 +52,20 @@ Dataset 2 : Fixtures2325.csv
 
 Contains insights about the fixtures from 2023 to 2025 <br><br>
 
-Div : E0 for Division 1 of england championship <br>
-Date : Date of the match <br>
-Time : Hours and mintues the match begins <br>
-HomeTeam : Name of the team reciever <br>
-AwayTeam : Name of the team visitor <br>
-FTHG : Full time home goals <br>
-FTAG : Full time away goals <br>
-FTR : Full time result <br>
-HTHG : Half time home goals <br>
+Div: E0 for Division 1 of england championship <br>
+Date: Date of the match <br>
+Time: Hours and mintues the match begins <br>
+HomeTeam: Name of the team reciever <br>
+AwayTeam: Name of the team visitor <br>
+FTHG: Full time home goals <br>
+FTAG: Full time away goals <br>
+FTR: Full time result <br>
+HTHG: Half time home goals <br>
 HTAG: Half time away goals <br>
-HTR : Half time result <br>
-Winner : Name of the winner the match and « Draw » if no winner <br>
-HREMONTADA : Home remontada <br>
-AREMONTADA : Away remontada <br>
-Referee : Name of the referee <br>
+HTR: Half time result <br>
+Winner: Name of the winner the match and « Draw » if no winner <br>
+HREMONTADA: Home remontada <br>
+AREMONTADA: Away remontada <br>
+Referee: Name of the referee <br>
 
 Raw source : https://www.football-data.co.uk/englandm.php

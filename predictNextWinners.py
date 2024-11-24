@@ -18,10 +18,10 @@ def searchTeamInsights(nameTeam):
 def prediction (nameTeam1, nameTeam2, date):
     team1= searchTeamInsights(nameTeam1)
     team2= searchTeamInsights(nameTeam2)
-    #print(str(team1)+"-"+str(team2))
+    # print(str(team1)+"-"+str(team2))
     prediction_model =joblib.load('model/model_premierleague.mod')
-    team1_prediction = prediction_model.predict([[team1[1], team1[2]]])
-    team2_prediction = prediction_model.predict([[team2[1], team2[2]]])
+    team1_prediction = prediction_model.predict([[int(team1[1]), int(team1[2])]])
+    team2_prediction = prediction_model.predict([[int(team2[1]), int(team2[2])]])
     print("Match: "+str(date)+" ("+str(nameTeam1)+" VS "+str(nameTeam2)+")")
     print("   "+nameTeam1+": "+str(team1_prediction[0]))
     print("   "+nameTeam2+": "+str(team2_prediction[0]))
@@ -33,18 +33,13 @@ def prediction (nameTeam1, nameTeam2, date):
     print("---------------------------------------")
 
 with open("Fixtures2325.csv", 'r') as csvfile:
-        nextFixtures = csv.reader(csvfile, dialect='excel', delimiter=',')
-        next(nextFixtures)
-        
-        for nextFixture in nextFixtures:
-            if nextFixture[11]=="" and nextFixture[3]!="Leicester"   and nextFixture[3]!="Ipswich" and nextFixture[3]!="Southampton" and nextFixture[4]!="Leicester" and nextFixture[4]!="Ipswich" and nextFixture[4]!="Southampton"   :
+    nextFixtures = csv.reader(csvfile, dialect="excel", delimiter=",")
+    next(nextFixtures)
 
-                ####### MAIN FUNCTION #######
+    for nextFixture in nextFixtures:
+        if nextFixture[11]=="" and nextFixture[3]!="Leicester"   and nextFixture[3]!="Ipswich" and nextFixture[3]!="Southampton" and nextFixture[4]!="Leicester" and nextFixture[4]!="Ipswich" and nextFixture[4]!="Southampton"   :
+            ####### MAIN FUNCTION #######
 
-                #team1 (HomeTeam) - team2 (AwayTeam) - Date of the match are used in function prediction() to predict the winner
-                #Another interesting variation would be to create a model to predict the percentage of victory Home and Away separetly
-                prediction(str(nextFixture[3]),str(nextFixture[4]),str(nextFixture[1]))
-             
-
-
-
+            # team1 (HomeTeam) - team2 (AwayTeam) - Date of the match are used in function prediction() to predict the winner
+            # Another interesting variation would be to create a model to predict the percentage of victory Home and Away separetly
+            prediction(str(nextFixture[3]),str(nextFixture[4]),str(nextFixture[1]))
