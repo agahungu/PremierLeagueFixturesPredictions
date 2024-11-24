@@ -1,1152 +1,1154 @@
 Match: 23/11/2024 (Arsenal VS Nott'm Forest)
-   Arsenal: 0.4421846460517112
-   Nott'm Forest: 0.4421846460517112
+   Arsenal: 0.4301392209506469
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 23/11/2024 (Bournemouth VS Brighton)
-   Bournemouth: 0.4072835231949144
-   Brighton: 0.4160088039091136
+   Bournemouth: 0.38337378252514565
+   Brighton: 0.395065142131521
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 23/11/2024 (Aston Villa VS Crystal Palace)
-   Aston Villa: 0.4752814865803412
-   Crystal Palace: 0.35637526477225256
+   Aston Villa: 0.4724331695343944
+   Crystal Palace: 0.31680281676029676
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 23/11/2024 (Everton VS Brentford)
-   Everton: 0.35709697770351934
-   Brentford: 0.3905546746977827
+   Everton: 0.31859141269699826
+   Brentford: 0.3617796592490965
 
 BRENTFORD IS THE WINNER!
 ---------------------------------------
 Match: 23/11/2024 (Fulham VS Wolves)
-   Fulham: 0.4250949410889462
-   Wolves: 0.38327281984611694
+   Fulham: 0.407650799706247
+   Wolves: 0.35366549151612414
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 23/11/2024 (Man City VS Tottenham)
-   Man City: 0.6869180880539207
-   Tottenham: 0.5272723143999031
+   Man City: 0.7486197962634638
+   Tottenham: 0.5416870292042955
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 25/11/2024 (Newcastle VS West Ham)
-   Newcastle: 0.28873815785245915
-   West Ham: 0.4152870909778469
+   Newcastle: 0.4058622037695455
+   West Ham: 0.39327654619481944
 
-WEST HAM IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 30/11/2024 (Crystal Palace VS Newcastle)
-   Crystal Palace: 0.35637526477225256
-   Newcastle: 0.28873815785245915
+   Crystal Palace: 0.31680281676029676
+   Newcastle: 0.4058622037695455
 
-CRYSTAL PALACE IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 30/11/2024 (Wolves VS Bournemouth)
-   Wolves: 0.38327281984611694
-   Bournemouth: 0.4072835231949144
+   Wolves: 0.35366549151612414
+   Bournemouth: 0.38337378252514565
 
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
 Match: 30/11/2024 (West Ham VS Arsenal)
-   West Ham: 0.4152870909778469
-   Arsenal: 0.4421846460517112
+   West Ham: 0.39327654619481944
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 01/12/2024 (Chelsea VS Aston Villa)
-   Chelsea: 0.3818293939835835
-   Aston Villa: 0.4752814865803412
+   Chelsea: 0.3500882996427212
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 01/12/2024 (Tottenham VS Fulham)
-   Tottenham: 0.5272723143999031
-   Fulham: 0.4250949410889462
+   Tottenham: 0.5416870292042955
+   Fulham: 0.407650799706247
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 01/12/2024 (Man United VS Everton)
-   Man United: 0.40836609259181444
-   Everton: 0.35709697770351934
+   Man United: 0.38605667643019786
+   Everton: 0.31859141269699826
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 01/12/2024 (Liverpool VS Man City)
-   Liverpool: 0.5181861772200704
-   Man City: 0.6869180880539207
+   Liverpool: 0.5291013716295695
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 04/12/2024 (Everton VS Wolves)
-   Everton: 0.35709697770351934
-   Wolves: 0.38327281984611694
+   Everton: 0.31859141269699826
+   Wolves: 0.35366549151612414
 
 WOLVES IS THE WINNER!
 ---------------------------------------
 Match: 04/12/2024 (Newcastle VS Liverpool)
-   Newcastle: 0.28873815785245915
-   Liverpool: 0.5181861772200704
+   Newcastle: 0.4058622037695455
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 04/12/2024 (Man City VS Nott'm Forest)
-   Man City: 0.6869180880539207
-   Nott'm Forest: 0.4421846460517112
+   Man City: 0.7486197962634638
+   Nott'm Forest: 0.4301392209506469
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 04/12/2024 (Arsenal VS Man United)
-   Arsenal: 0.4421846460517112
-   Man United: 0.40836609259181444
+   Arsenal: 0.4301392209506469
+   Man United: 0.38605667643019786
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 04/12/2024 (Aston Villa VS Brentford)
-   Aston Villa: 0.4752814865803412
-   Brentford: 0.3905546746977827
+   Aston Villa: 0.4724331695343944
+   Brentford: 0.3617796592490965
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 05/12/2024 (Fulham VS Brighton)
-   Fulham: 0.4250949410889462
-   Brighton: 0.4160088039091136
+   Fulham: 0.407650799706247
+   Brighton: 0.395065142131521
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 05/12/2024 (Bournemouth VS Tottenham)
-   Bournemouth: 0.4072835231949144
-   Tottenham: 0.5272723143999031
+   Bournemouth: 0.38337378252514565
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 07/12/2024 (Everton VS Liverpool)
-   Everton: 0.35709697770351934
-   Liverpool: 0.5181861772200704
+   Everton: 0.31859141269699826
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 07/12/2024 (Brentford VS Newcastle)
-   Brentford: 0.3905546746977827
-   Newcastle: 0.28873815785245915
+   Brentford: 0.3617796592490965
+   Newcastle: 0.4058622037695455
 
-BRENTFORD IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 07/12/2024 (Crystal Palace VS Man City)
-   Crystal Palace: 0.35637526477225256
-   Man City: 0.6869180880539207
+   Crystal Palace: 0.31680281676029676
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 07/12/2024 (Man United VS Nott'm Forest)
-   Man United: 0.40836609259181444
-   Nott'm Forest: 0.4421846460517112
+   Man United: 0.38605667643019786
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 08/12/2024 (Fulham VS Arsenal)
-   Fulham: 0.4250949410889462
-   Arsenal: 0.4421846460517112
+   Fulham: 0.407650799706247
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 08/12/2024 (Tottenham VS Chelsea)
-   Tottenham: 0.5272723143999031
-   Chelsea: 0.3818293939835835
+   Tottenham: 0.5416870292042955
+   Chelsea: 0.3500882996427212
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 09/12/2024 (West Ham VS Wolves)
-   West Ham: 0.4152870909778469
-   Wolves: 0.38327281984611694
+   West Ham: 0.39327654619481944
+   Wolves: 0.35366549151612414
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 14/12/2024 (Arsenal VS Everton)
-   Arsenal: 0.4421846460517112
-   Everton: 0.35709697770351934
+   Arsenal: 0.4301392209506469
+   Everton: 0.31859141269699826
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 14/12/2024 (Liverpool VS Fulham)
-   Liverpool: 0.5181861772200704
-   Fulham: 0.4250949410889462
+   Liverpool: 0.5291013716295695
+   Fulham: 0.407650799706247
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 14/12/2024 (Nott'm Forest VS Aston Villa)
-   Nott'm Forest: 0.4421846460517112
-   Aston Villa: 0.4752814865803412
+   Nott'm Forest: 0.4301392209506469
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 15/12/2024 (Brighton VS Crystal Palace)
-   Brighton: 0.4160088039091136
-   Crystal Palace: 0.35637526477225256
+   Brighton: 0.395065142131521
+   Crystal Palace: 0.31680281676029676
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 15/12/2024 (Man City VS Man United)
-   Man City: 0.6869180880539207
-   Man United: 0.40836609259181444
+   Man City: 0.7486197962634638
+   Man United: 0.38605667643019786
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 15/12/2024 (Chelsea VS Brentford)
-   Chelsea: 0.3818293939835835
-   Brentford: 0.3905546746977827
+   Chelsea: 0.3500882996427212
+   Brentford: 0.3617796592490965
 
 BRENTFORD IS THE WINNER!
 ---------------------------------------
 Match: 16/12/2024 (Bournemouth VS West Ham)
-   Bournemouth: 0.4072835231949144
-   West Ham: 0.4152870909778469
+   Bournemouth: 0.38337378252514565
+   West Ham: 0.39327654619481944
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 21/12/2024 (Aston Villa VS Man City)
-   Aston Villa: 0.4752814865803412
-   Man City: 0.6869180880539207
+   Aston Villa: 0.4724331695343944
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 21/12/2024 (West Ham VS Brighton)
-   West Ham: 0.4152870909778469
-   Brighton: 0.4160088039091136
+   West Ham: 0.39327654619481944
+   Brighton: 0.395065142131521
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 21/12/2024 (Brentford VS Nott'm Forest)
-   Brentford: 0.3905546746977827
-   Nott'm Forest: 0.4421846460517112
+   Brentford: 0.3617796592490965
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 21/12/2024 (Crystal Palace VS Arsenal)
-   Crystal Palace: 0.35637526477225256
-   Arsenal: 0.4421846460517112
+   Crystal Palace: 0.31680281676029676
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 22/12/2024 (Man United VS Bournemouth)
-   Man United: 0.40836609259181444
-   Bournemouth: 0.4072835231949144
+   Man United: 0.38605667643019786
+   Bournemouth: 0.38337378252514565
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 22/12/2024 (Everton VS Chelsea)
-   Everton: 0.35709697770351934
-   Chelsea: 0.3818293939835835
+   Everton: 0.31859141269699826
+   Chelsea: 0.3500882996427212
 
 CHELSEA IS THE WINNER!
 ---------------------------------------
 Match: 22/12/2024 (Tottenham VS Liverpool)
-   Tottenham: 0.5272723143999031
-   Liverpool: 0.5181861772200704
+   Tottenham: 0.5416870292042955
+   Liverpool: 0.5291013716295695
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 26/12/2024 (Man City VS Everton)
-   Man City: 0.6869180880539207
-   Everton: 0.35709697770351934
+   Man City: 0.7486197962634638
+   Everton: 0.31859141269699826
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 26/12/2024 (Chelsea VS Fulham)
-   Chelsea: 0.3818293939835835
-   Fulham: 0.4250949410889462
+   Chelsea: 0.3500882996427212
+   Fulham: 0.407650799706247
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 26/12/2024 (Bournemouth VS Crystal Palace)
-   Bournemouth: 0.4072835231949144
-   Crystal Palace: 0.35637526477225256
+   Bournemouth: 0.38337378252514565
+   Crystal Palace: 0.31680281676029676
 
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
 Match: 26/12/2024 (Newcastle VS Aston Villa)
-   Newcastle: 0.28873815785245915
-   Aston Villa: 0.4752814865803412
+   Newcastle: 0.4058622037695455
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 26/12/2024 (Nott'm Forest VS Tottenham)
-   Nott'm Forest: 0.4421846460517112
-   Tottenham: 0.5272723143999031
+   Nott'm Forest: 0.4301392209506469
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 26/12/2024 (Wolves VS Man United)
-   Wolves: 0.38327281984611694
-   Man United: 0.40836609259181444
+   Wolves: 0.35366549151612414
+   Man United: 0.38605667643019786
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 27/12/2024 (Brighton VS Brentford)
-   Brighton: 0.4160088039091136
-   Brentford: 0.3905546746977827
+   Brighton: 0.395065142131521
+   Brentford: 0.3617796592490965
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 29/12/2024 (Tottenham VS Wolves)
-   Tottenham: 0.5272723143999031
-   Wolves: 0.38327281984611694
+   Tottenham: 0.5416870292042955
+   Wolves: 0.35366549151612414
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 29/12/2024 (Fulham VS Bournemouth)
-   Fulham: 0.4250949410889462
-   Bournemouth: 0.4072835231949144
+   Fulham: 0.407650799706247
+   Bournemouth: 0.38337378252514565
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 29/12/2024 (Everton VS Nott'm Forest)
-   Everton: 0.35709697770351934
-   Nott'm Forest: 0.4421846460517112
+   Everton: 0.31859141269699826
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 29/12/2024 (West Ham VS Liverpool)
-   West Ham: 0.4152870909778469
-   Liverpool: 0.5181861772200704
+   West Ham: 0.39327654619481944
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 30/12/2024 (Aston Villa VS Brighton)
-   Aston Villa: 0.4752814865803412
-   Brighton: 0.4160088039091136
+   Aston Villa: 0.4724331695343944
+   Brighton: 0.395065142131521
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 30/12/2024 (Man United VS Newcastle)
-   Man United: 0.40836609259181444
-   Newcastle: 0.28873815785245915
+   Man United: 0.38605667643019786
+   Newcastle: 0.4058622037695455
 
-MAN UNITED IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 01/01/2025 (Brentford VS Arsenal)
-   Brentford: 0.3905546746977827
-   Arsenal: 0.4421846460517112
+   Brentford: 0.3617796592490965
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 04/01/2025 (Tottenham VS Newcastle)
-   Tottenham: 0.5272723143999031
-   Newcastle: 0.28873815785245915
+   Tottenham: 0.5416870292042955
+   Newcastle: 0.4058622037695455
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 04/01/2025 (Bournemouth VS Everton)
-   Bournemouth: 0.4072835231949144
-   Everton: 0.35709697770351934
+   Bournemouth: 0.38337378252514565
+   Everton: 0.31859141269699826
 
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
 Match: 04/01/2025 (Crystal Palace VS Chelsea)
-   Crystal Palace: 0.35637526477225256
-   Chelsea: 0.3818293939835835
+   Crystal Palace: 0.31680281676029676
+   Chelsea: 0.3500882996427212
 
 CHELSEA IS THE WINNER!
 ---------------------------------------
 Match: 04/01/2025 (Man City VS West Ham)
-   Man City: 0.6869180880539207
-   West Ham: 0.4152870909778469
+   Man City: 0.7486197962634638
+   West Ham: 0.39327654619481944
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 04/01/2025 (Brighton VS Arsenal)
-   Brighton: 0.4160088039091136
-   Arsenal: 0.4421846460517112
+   Brighton: 0.395065142131521
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 05/01/2025 (Liverpool VS Man United)
-   Liverpool: 0.5181861772200704
-   Man United: 0.40836609259181444
+   Liverpool: 0.5291013716295695
+   Man United: 0.38605667643019786
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 06/01/2025 (Wolves VS Nott'm Forest)
-   Wolves: 0.38327281984611694
-   Nott'm Forest: 0.4421846460517112
+   Wolves: 0.35366549151612414
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 14/01/2025 (Brentford VS Man City)
-   Brentford: 0.3905546746977827
-   Man City: 0.6869180880539207
+   Brentford: 0.3617796592490965
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 14/01/2025 (West Ham VS Fulham)
-   West Ham: 0.4152870909778469
-   Fulham: 0.4250949410889462
+   West Ham: 0.39327654619481944
+   Fulham: 0.407650799706247
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 14/01/2025 (Chelsea VS Bournemouth)
-   Chelsea: 0.3818293939835835
-   Bournemouth: 0.4072835231949144
+   Chelsea: 0.3500882996427212
+   Bournemouth: 0.38337378252514565
 
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
 Match: 14/01/2025 (Nott'm Forest VS Liverpool)
-   Nott'm Forest: 0.4421846460517112
-   Liverpool: 0.5181861772200704
+   Nott'm Forest: 0.4301392209506469
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 15/01/2025 (Everton VS Aston Villa)
-   Everton: 0.35709697770351934
-   Aston Villa: 0.4752814865803412
+   Everton: 0.31859141269699826
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 15/01/2025 (Newcastle VS Wolves)
-   Newcastle: 0.28873815785245915
-   Wolves: 0.38327281984611694
+   Newcastle: 0.4058622037695455
+   Wolves: 0.35366549151612414
 
-WOLVES IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 15/01/2025 (Arsenal VS Tottenham)
-   Arsenal: 0.4421846460517112
-   Tottenham: 0.5272723143999031
+   Arsenal: 0.4301392209506469
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 18/01/2025 (Newcastle VS Bournemouth)
-   Newcastle: 0.28873815785245915
-   Bournemouth: 0.4072835231949144
+   Newcastle: 0.4058622037695455
+   Bournemouth: 0.38337378252514565
 
-BOURNEMOUTH IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 18/01/2025 (West Ham VS Crystal Palace)
-   West Ham: 0.4152870909778469
-   Crystal Palace: 0.35637526477225256
+   West Ham: 0.39327654619481944
+   Crystal Palace: 0.31680281676029676
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 18/01/2025 (Brentford VS Liverpool)
-   Brentford: 0.3905546746977827
-   Liverpool: 0.5181861772200704
+   Brentford: 0.3617796592490965
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 18/01/2025 (Arsenal VS Aston Villa)
-   Arsenal: 0.4421846460517112
-   Aston Villa: 0.4752814865803412
+   Arsenal: 0.4301392209506469
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 19/01/2025 (Man United VS Brighton)
-   Man United: 0.40836609259181444
-   Brighton: 0.4160088039091136
+   Man United: 0.38605667643019786
+   Brighton: 0.395065142131521
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 19/01/2025 (Everton VS Tottenham)
-   Everton: 0.35709697770351934
-   Tottenham: 0.5272723143999031
+   Everton: 0.31859141269699826
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 20/01/2025 (Chelsea VS Wolves)
-   Chelsea: 0.3818293939835835
-   Wolves: 0.38327281984611694
+   Chelsea: 0.3500882996427212
+   Wolves: 0.35366549151612414
 
 WOLVES IS THE WINNER!
 ---------------------------------------
 Match: 25/01/2025 (Wolves VS Arsenal)
-   Wolves: 0.38327281984611694
-   Arsenal: 0.4421846460517112
+   Wolves: 0.35366549151612414
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 25/01/2025 (Brighton VS Everton)
-   Brighton: 0.4160088039091136
-   Everton: 0.35709697770351934
+   Brighton: 0.395065142131521
+   Everton: 0.31859141269699826
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 25/01/2025 (Bournemouth VS Nott'm Forest)
-   Bournemouth: 0.4072835231949144
-   Nott'm Forest: 0.4421846460517112
+   Bournemouth: 0.38337378252514565
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 25/01/2025 (Man City VS Chelsea)
-   Man City: 0.6869180880539207
-   Chelsea: 0.3818293939835835
+   Man City: 0.7486197962634638
+   Chelsea: 0.3500882996427212
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 26/01/2025 (Crystal Palace VS Brentford)
-   Crystal Palace: 0.35637526477225256
-   Brentford: 0.3905546746977827
+   Crystal Palace: 0.31680281676029676
+   Brentford: 0.3617796592490965
 
 BRENTFORD IS THE WINNER!
 ---------------------------------------
 Match: 26/01/2025 (Aston Villa VS West Ham)
-   Aston Villa: 0.4752814865803412
-   West Ham: 0.4152870909778469
+   Aston Villa: 0.4724331695343944
+   West Ham: 0.39327654619481944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 26/01/2025 (Fulham VS Man United)
-   Fulham: 0.4250949410889462
-   Man United: 0.40836609259181444
+   Fulham: 0.407650799706247
+   Man United: 0.38605667643019786
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 01/02/2025 (Arsenal VS Man City)
-   Arsenal: 0.4421846460517112
-   Man City: 0.6869180880539207
+   Arsenal: 0.4301392209506469
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 01/02/2025 (Newcastle VS Fulham)
-   Newcastle: 0.28873815785245915
-   Fulham: 0.4250949410889462
+   Newcastle: 0.4058622037695455
+   Fulham: 0.407650799706247
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 01/02/2025 (Wolves VS Aston Villa)
-   Wolves: 0.38327281984611694
-   Aston Villa: 0.4752814865803412
+   Wolves: 0.35366549151612414
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 01/02/2025 (Brentford VS Tottenham)
-   Brentford: 0.3905546746977827
-   Tottenham: 0.5272723143999031
+   Brentford: 0.3617796592490965
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 01/02/2025 (Man United VS Crystal Palace)
-   Man United: 0.40836609259181444
-   Crystal Palace: 0.35637526477225256
+   Man United: 0.38605667643019786
+   Crystal Palace: 0.31680281676029676
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 01/02/2025 (Bournemouth VS Liverpool)
-   Bournemouth: 0.4072835231949144
-   Liverpool: 0.5181861772200704
+   Bournemouth: 0.38337378252514565
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 01/02/2025 (Nott'm Forest VS Brighton)
-   Nott'm Forest: 0.4421846460517112
-   Brighton: 0.4160088039091136
+   Nott'm Forest: 0.4301392209506469
+   Brighton: 0.395065142131521
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 01/02/2025 (Chelsea VS West Ham)
-   Chelsea: 0.3818293939835835
-   West Ham: 0.4152870909778469
+   Chelsea: 0.3500882996427212
+   West Ham: 0.39327654619481944
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 15/02/2025 (Tottenham VS Man United)
-   Tottenham: 0.5272723143999031
-   Man United: 0.40836609259181444
+   Tottenham: 0.5416870292042955
+   Man United: 0.38605667643019786
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 15/02/2025 (Crystal Palace VS Everton)
-   Crystal Palace: 0.35637526477225256
-   Everton: 0.35709697770351934
+   Crystal Palace: 0.31680281676029676
+   Everton: 0.31859141269699826
 
 EVERTON IS THE WINNER!
 ---------------------------------------
 Match: 15/02/2025 (Fulham VS Nott'm Forest)
-   Fulham: 0.4250949410889462
-   Nott'm Forest: 0.4421846460517112
+   Fulham: 0.407650799706247
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 15/02/2025 (Liverpool VS Wolves)
-   Liverpool: 0.5181861772200704
-   Wolves: 0.38327281984611694
+   Liverpool: 0.5291013716295695
+   Wolves: 0.35366549151612414
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 15/02/2025 (West Ham VS Brentford)
-   West Ham: 0.4152870909778469
-   Brentford: 0.3905546746977827
+   West Ham: 0.39327654619481944
+   Brentford: 0.3617796592490965
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 15/02/2025 (Man City VS Newcastle)
-   Man City: 0.6869180880539207
-   Newcastle: 0.28873815785245915
+   Man City: 0.7486197962634638
+   Newcastle: 0.4058622037695455
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 15/02/2025 (Brighton VS Chelsea)
-   Brighton: 0.4160088039091136
-   Chelsea: 0.3818293939835835
+   Brighton: 0.395065142131521
+   Chelsea: 0.3500882996427212
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 22/02/2025 (Aston Villa VS Chelsea)
-   Aston Villa: 0.4752814865803412
-   Chelsea: 0.3818293939835835
+   Aston Villa: 0.4724331695343944
+   Chelsea: 0.3500882996427212
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 22/02/2025 (Fulham VS Crystal Palace)
-   Fulham: 0.4250949410889462
-   Crystal Palace: 0.35637526477225256
+   Fulham: 0.407650799706247
+   Crystal Palace: 0.31680281676029676
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 22/02/2025 (Newcastle VS Nott'm Forest)
-   Newcastle: 0.28873815785245915
-   Nott'm Forest: 0.4421846460517112
+   Newcastle: 0.4058622037695455
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 22/02/2025 (Bournemouth VS Wolves)
-   Bournemouth: 0.4072835231949144
-   Wolves: 0.38327281984611694
+   Bournemouth: 0.38337378252514565
+   Wolves: 0.35366549151612414
 
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
 Match: 22/02/2025 (Arsenal VS West Ham)
-   Arsenal: 0.4421846460517112
-   West Ham: 0.4152870909778469
+   Arsenal: 0.4301392209506469
+   West Ham: 0.39327654619481944
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 22/02/2025 (Man City VS Liverpool)
-   Man City: 0.6869180880539207
-   Liverpool: 0.5181861772200704
+   Man City: 0.7486197962634638
+   Liverpool: 0.5291013716295695
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 22/02/2025 (Everton VS Man United)
-   Everton: 0.35709697770351934
-   Man United: 0.40836609259181444
+   Everton: 0.31859141269699826
+   Man United: 0.38605667643019786
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 25/02/2025 (Brentford VS Everton)
-   Brentford: 0.3905546746977827
-   Everton: 0.35709697770351934
+   Brentford: 0.3617796592490965
+   Everton: 0.31859141269699826
 
 BRENTFORD IS THE WINNER!
 ---------------------------------------
 Match: 25/02/2025 (Tottenham VS Man City)
-   Tottenham: 0.5272723143999031
-   Man City: 0.6869180880539207
+   Tottenham: 0.5416870292042955
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 25/02/2025 (Wolves VS Fulham)
-   Wolves: 0.38327281984611694
-   Fulham: 0.4250949410889462
+   Wolves: 0.35366549151612414
+   Fulham: 0.407650799706247
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 25/02/2025 (Nott'm Forest VS Arsenal)
-   Nott'm Forest: 0.4421846460517112
-   Arsenal: 0.4421846460517112
+   Nott'm Forest: 0.4301392209506469
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 25/02/2025 (Brighton VS Bournemouth)
-   Brighton: 0.4160088039091136
-   Bournemouth: 0.4072835231949144
+   Brighton: 0.395065142131521
+   Bournemouth: 0.38337378252514565
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 25/02/2025 (Crystal Palace VS Aston Villa)
-   Crystal Palace: 0.35637526477225256
-   Aston Villa: 0.4752814865803412
+   Crystal Palace: 0.31680281676029676
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 26/02/2025 (Liverpool VS Newcastle)
-   Liverpool: 0.5181861772200704
-   Newcastle: 0.28873815785245915
+   Liverpool: 0.5291013716295695
+   Newcastle: 0.4058622037695455
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (Wolves VS Everton)
-   Wolves: 0.38327281984611694
-   Everton: 0.35709697770351934
+   Wolves: 0.35366549151612414
+   Everton: 0.31859141269699826
 
 WOLVES IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (West Ham VS Newcastle)
-   West Ham: 0.4152870909778469
-   Newcastle: 0.28873815785245915
+   West Ham: 0.39327654619481944
+   Newcastle: 0.4058622037695455
 
-WEST HAM IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (Tottenham VS Bournemouth)
-   Tottenham: 0.5272723143999031
-   Bournemouth: 0.4072835231949144
+   Tottenham: 0.5416870292042955
+   Bournemouth: 0.38337378252514565
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (Man United VS Arsenal)
-   Man United: 0.40836609259181444
-   Arsenal: 0.4421846460517112
+   Man United: 0.38605667643019786
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (Nott'm Forest VS Man City)
-   Nott'm Forest: 0.4421846460517112
-   Man City: 0.6869180880539207
+   Nott'm Forest: 0.4301392209506469
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (Brighton VS Fulham)
-   Brighton: 0.4160088039091136
-   Fulham: 0.4250949410889462
+   Brighton: 0.395065142131521
+   Fulham: 0.407650799706247
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 08/03/2025 (Brentford VS Aston Villa)
-   Brentford: 0.3905546746977827
-   Aston Villa: 0.4752814865803412
+   Brentford: 0.3617796592490965
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 15/03/2025 (Arsenal VS Chelsea)
-   Arsenal: 0.4421846460517112
-   Chelsea: 0.3818293939835835
+   Arsenal: 0.4301392209506469
+   Chelsea: 0.3500882996427212
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 15/03/2025 (Aston Villa VS Liverpool)
-   Aston Villa: 0.4752814865803412
-   Liverpool: 0.5181861772200704
+   Aston Villa: 0.4724331695343944
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 15/03/2025 (Fulham VS Tottenham)
-   Fulham: 0.4250949410889462
-   Tottenham: 0.5272723143999031
+   Fulham: 0.407650799706247
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 15/03/2025 (Newcastle VS Crystal Palace)
-   Newcastle: 0.28873815785245915
-   Crystal Palace: 0.35637526477225256
+   Newcastle: 0.4058622037695455
+   Crystal Palace: 0.31680281676029676
 
-CRYSTAL PALACE IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 15/03/2025 (Man City VS Brighton)
-   Man City: 0.6869180880539207
-   Brighton: 0.4160088039091136
+   Man City: 0.7486197962634638
+   Brighton: 0.395065142131521
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 15/03/2025 (Everton VS West Ham)
-   Everton: 0.35709697770351934
-   West Ham: 0.4152870909778469
+   Everton: 0.31859141269699826
+   West Ham: 0.39327654619481944
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 15/03/2025 (Bournemouth VS Brentford)
-   Bournemouth: 0.4072835231949144
-   Brentford: 0.3905546746977827
+   Bournemouth: 0.38337378252514565
+   Brentford: 0.3617796592490965
 
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
 Match: 01/04/2025 (Brighton VS Aston Villa)
-   Brighton: 0.4160088039091136
-   Aston Villa: 0.4752814865803412
+   Brighton: 0.395065142131521
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 01/04/2025 (Wolves VS West Ham)
-   Wolves: 0.38327281984611694
-   West Ham: 0.4152870909778469
+   Wolves: 0.35366549151612414
+   West Ham: 0.39327654619481944
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 01/04/2025 (Arsenal VS Fulham)
-   Arsenal: 0.4421846460517112
-   Fulham: 0.4250949410889462
+   Arsenal: 0.4301392209506469
+   Fulham: 0.407650799706247
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 01/04/2025 (Nott'm Forest VS Man United)
-   Nott'm Forest: 0.4421846460517112
-   Man United: 0.40836609259181444
+   Nott'm Forest: 0.4301392209506469
+   Man United: 0.38605667643019786
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 02/04/2025 (Chelsea VS Tottenham)
-   Chelsea: 0.3818293939835835
-   Tottenham: 0.5272723143999031
+   Chelsea: 0.3500882996427212
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 02/04/2025 (Newcastle VS Brentford)
-   Newcastle: 0.28873815785245915
-   Brentford: 0.3905546746977827
+   Newcastle: 0.4058622037695455
+   Brentford: 0.3617796592490965
 
-BRENTFORD IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 02/04/2025 (Liverpool VS Everton)
-   Liverpool: 0.5181861772200704
-   Everton: 0.35709697770351934
+   Liverpool: 0.5291013716295695
+   Everton: 0.31859141269699826
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 05/04/2025 (West Ham VS Bournemouth)
-   West Ham: 0.4152870909778469
-   Bournemouth: 0.4072835231949144
+   West Ham: 0.39327654619481944
+   Bournemouth: 0.38337378252514565
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 05/04/2025 (Man United VS Man City)
-   Man United: 0.40836609259181444
-   Man City: 0.6869180880539207
+   Man United: 0.38605667643019786
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 05/04/2025 (Brentford VS Chelsea)
-   Brentford: 0.3905546746977827
-   Chelsea: 0.3818293939835835
+   Brentford: 0.3617796592490965
+   Chelsea: 0.3500882996427212
 
 BRENTFORD IS THE WINNER!
 ---------------------------------------
 Match: 05/04/2025 (Aston Villa VS Nott'm Forest)
-   Aston Villa: 0.4752814865803412
-   Nott'm Forest: 0.4421846460517112
+   Aston Villa: 0.4724331695343944
+   Nott'm Forest: 0.4301392209506469
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 05/04/2025 (Everton VS Arsenal)
-   Everton: 0.35709697770351934
-   Arsenal: 0.4421846460517112
+   Everton: 0.31859141269699826
+   Arsenal: 0.4301392209506469
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 05/04/2025 (Fulham VS Liverpool)
-   Fulham: 0.4250949410889462
-   Liverpool: 0.5181861772200704
+   Fulham: 0.407650799706247
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 05/04/2025 (Crystal Palace VS Brighton)
-   Crystal Palace: 0.35637526477225256
-   Brighton: 0.4160088039091136
+   Crystal Palace: 0.31680281676029676
+   Brighton: 0.395065142131521
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 12/04/2025 (Bournemouth VS Fulham)
-   Bournemouth: 0.4072835231949144
-   Fulham: 0.4250949410889462
+   Bournemouth: 0.38337378252514565
+   Fulham: 0.407650799706247
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 12/04/2025 (Newcastle VS Man United)
-   Newcastle: 0.28873815785245915
-   Man United: 0.40836609259181444
+   Newcastle: 0.4058622037695455
+   Man United: 0.38605667643019786
 
-MAN UNITED IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 12/04/2025 (Arsenal VS Brentford)
-   Arsenal: 0.4421846460517112
-   Brentford: 0.3905546746977827
+   Arsenal: 0.4301392209506469
+   Brentford: 0.3617796592490965
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 12/04/2025 (Liverpool VS West Ham)
-   Liverpool: 0.5181861772200704
-   West Ham: 0.4152870909778469
+   Liverpool: 0.5291013716295695
+   West Ham: 0.39327654619481944
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 12/04/2025 (Wolves VS Tottenham)
-   Wolves: 0.38327281984611694
-   Tottenham: 0.5272723143999031
+   Wolves: 0.35366549151612414
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 12/04/2025 (Man City VS Crystal Palace)
-   Man City: 0.6869180880539207
-   Crystal Palace: 0.35637526477225256
+   Man City: 0.7486197962634638
+   Crystal Palace: 0.31680281676029676
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 12/04/2025 (Nott'm Forest VS Everton)
-   Nott'm Forest: 0.4421846460517112
-   Everton: 0.35709697770351934
+   Nott'm Forest: 0.4301392209506469
+   Everton: 0.31859141269699826
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 19/04/2025 (Brentford VS Brighton)
-   Brentford: 0.3905546746977827
-   Brighton: 0.4160088039091136
+   Brentford: 0.3617796592490965
+   Brighton: 0.395065142131521
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 19/04/2025 (Aston Villa VS Newcastle)
-   Aston Villa: 0.4752814865803412
-   Newcastle: 0.28873815785245915
+   Aston Villa: 0.4724331695343944
+   Newcastle: 0.4058622037695455
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 19/04/2025 (Tottenham VS Nott'm Forest)
-   Tottenham: 0.5272723143999031
-   Nott'm Forest: 0.4421846460517112
+   Tottenham: 0.5416870292042955
+   Nott'm Forest: 0.4301392209506469
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 19/04/2025 (Crystal Palace VS Bournemouth)
-   Crystal Palace: 0.35637526477225256
-   Bournemouth: 0.4072835231949144
+   Crystal Palace: 0.31680281676029676
+   Bournemouth: 0.38337378252514565
 
 BOURNEMOUTH IS THE WINNER!
 ---------------------------------------
 Match: 19/04/2025 (Everton VS Man City)
-   Everton: 0.35709697770351934
-   Man City: 0.6869180880539207
+   Everton: 0.31859141269699826
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 19/04/2025 (Fulham VS Chelsea)
-   Fulham: 0.4250949410889462
-   Chelsea: 0.3818293939835835
+   Fulham: 0.407650799706247
+   Chelsea: 0.3500882996427212
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 19/04/2025 (Man United VS Wolves)
-   Man United: 0.40836609259181444
-   Wolves: 0.38327281984611694
+   Man United: 0.38605667643019786
+   Wolves: 0.35366549151612414
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Chelsea VS Everton)
-   Chelsea: 0.3818293939835835
-   Everton: 0.35709697770351934
+   Chelsea: 0.3500882996427212
+   Everton: 0.31859141269699826
 
 CHELSEA IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Man City VS Aston Villa)
-   Man City: 0.6869180880539207
-   Aston Villa: 0.4752814865803412
+   Man City: 0.7486197962634638
+   Aston Villa: 0.4724331695343944
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Liverpool VS Tottenham)
-   Liverpool: 0.5181861772200704
-   Tottenham: 0.5272723143999031
+   Liverpool: 0.5291013716295695
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Arsenal VS Crystal Palace)
-   Arsenal: 0.4421846460517112
-   Crystal Palace: 0.35637526477225256
+   Arsenal: 0.4301392209506469
+   Crystal Palace: 0.31680281676029676
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Bournemouth VS Man United)
-   Bournemouth: 0.4072835231949144
-   Man United: 0.40836609259181444
+   Bournemouth: 0.38337378252514565
+   Man United: 0.38605667643019786
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Nott'm Forest VS Brentford)
-   Nott'm Forest: 0.4421846460517112
-   Brentford: 0.3905546746977827
+   Nott'm Forest: 0.4301392209506469
+   Brentford: 0.3617796592490965
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 26/04/2025 (Brighton VS West Ham)
-   Brighton: 0.4160088039091136
-   West Ham: 0.4152870909778469
+   Brighton: 0.395065142131521
+   West Ham: 0.39327654619481944
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 03/05/2025 (Chelsea VS Liverpool)
-   Chelsea: 0.3818293939835835
-   Liverpool: 0.5181861772200704
+   Chelsea: 0.3500882996427212
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 03/05/2025 (Brentford VS Man United)
-   Brentford: 0.3905546746977827
-   Man United: 0.40836609259181444
+   Brentford: 0.3617796592490965
+   Man United: 0.38605667643019786
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 03/05/2025 (Man City VS Wolves)
-   Man City: 0.6869180880539207
-   Wolves: 0.38327281984611694
+   Man City: 0.7486197962634638
+   Wolves: 0.35366549151612414
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 03/05/2025 (West Ham VS Tottenham)
-   West Ham: 0.4152870909778469
-   Tottenham: 0.5272723143999031
+   West Ham: 0.39327654619481944
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 03/05/2025 (Crystal Palace VS Nott'm Forest)
-   Crystal Palace: 0.35637526477225256
-   Nott'm Forest: 0.4421846460517112
+   Crystal Palace: 0.31680281676029676
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 03/05/2025 (Arsenal VS Bournemouth)
-   Arsenal: 0.4421846460517112
-   Bournemouth: 0.4072835231949144
+   Arsenal: 0.4301392209506469
+   Bournemouth: 0.38337378252514565
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 03/05/2025 (Aston Villa VS Fulham)
-   Aston Villa: 0.4752814865803412
-   Fulham: 0.4250949410889462
+   Aston Villa: 0.4724331695343944
+   Fulham: 0.407650799706247
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 03/05/2025 (Brighton VS Newcastle)
-   Brighton: 0.4160088039091136
-   Newcastle: 0.28873815785245915
+   Brighton: 0.395065142131521
+   Newcastle: 0.4058622037695455
 
-BRIGHTON IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 10/05/2025 (Liverpool VS Arsenal)
-   Liverpool: 0.5181861772200704
-   Arsenal: 0.4421846460517112
+   Liverpool: 0.5291013716295695
+   Arsenal: 0.4301392209506469
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 10/05/2025 (Tottenham VS Crystal Palace)
-   Tottenham: 0.5272723143999031
-   Crystal Palace: 0.35637526477225256
+   Tottenham: 0.5416870292042955
+   Crystal Palace: 0.31680281676029676
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 10/05/2025 (Fulham VS Everton)
-   Fulham: 0.4250949410889462
-   Everton: 0.35709697770351934
+   Fulham: 0.407650799706247
+   Everton: 0.31859141269699826
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 10/05/2025 (Newcastle VS Chelsea)
-   Newcastle: 0.28873815785245915
-   Chelsea: 0.3818293939835835
+   Newcastle: 0.4058622037695455
+   Chelsea: 0.3500882996427212
 
-CHELSEA IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 10/05/2025 (Man United VS West Ham)
-   Man United: 0.40836609259181444
-   West Ham: 0.4152870909778469
+   Man United: 0.38605667643019786
+   West Ham: 0.39327654619481944
 
 WEST HAM IS THE WINNER!
 ---------------------------------------
 Match: 10/05/2025 (Bournemouth VS Aston Villa)
-   Bournemouth: 0.4072835231949144
-   Aston Villa: 0.4752814865803412
+   Bournemouth: 0.38337378252514565
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 10/05/2025 (Wolves VS Brighton)
-   Wolves: 0.38327281984611694
-   Brighton: 0.4160088039091136
+   Wolves: 0.35366549151612414
+   Brighton: 0.395065142131521
 
 BRIGHTON IS THE WINNER!
 ---------------------------------------
 Match: 18/05/2025 (Brentford VS Fulham)
-   Brentford: 0.3905546746977827
-   Fulham: 0.4250949410889462
+   Brentford: 0.3617796592490965
+   Fulham: 0.407650799706247
 
 FULHAM IS THE WINNER!
 ---------------------------------------
 Match: 18/05/2025 (Arsenal VS Newcastle)
-   Arsenal: 0.4421846460517112
-   Newcastle: 0.28873815785245915
+   Arsenal: 0.4301392209506469
+   Newcastle: 0.4058622037695455
 
 ARSENAL IS THE WINNER!
 ---------------------------------------
 Match: 18/05/2025 (Brighton VS Liverpool)
-   Brighton: 0.4160088039091136
-   Liverpool: 0.5181861772200704
+   Brighton: 0.395065142131521
+   Liverpool: 0.5291013716295695
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 18/05/2025 (West Ham VS Nott'm Forest)
-   West Ham: 0.4152870909778469
-   Nott'm Forest: 0.4421846460517112
+   West Ham: 0.39327654619481944
+   Nott'm Forest: 0.4301392209506469
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 18/05/2025 (Aston Villa VS Tottenham)
-   Aston Villa: 0.4752814865803412
-   Tottenham: 0.5272723143999031
+   Aston Villa: 0.4724331695343944
+   Tottenham: 0.5416870292042955
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
 Match: 18/05/2025 (Chelsea VS Man United)
-   Chelsea: 0.3818293939835835
-   Man United: 0.40836609259181444
+   Chelsea: 0.3500882996427212
+   Man United: 0.38605667643019786
 
 MAN UNITED IS THE WINNER!
 ---------------------------------------
 Match: 18/05/2025 (Man City VS Bournemouth)
-   Man City: 0.6869180880539207
-   Bournemouth: 0.4072835231949144
+   Man City: 0.7486197962634638
+   Bournemouth: 0.38337378252514565
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 18/05/2025 (Crystal Palace VS Wolves)
-   Crystal Palace: 0.35637526477225256
-   Wolves: 0.38327281984611694
+   Crystal Palace: 0.31680281676029676
+   Wolves: 0.35366549151612414
 
 WOLVES IS THE WINNER!
 ---------------------------------------
 Match: 25/05/2025 (Liverpool VS Crystal Palace)
-   Liverpool: 0.5181861772200704
-   Crystal Palace: 0.35637526477225256
+   Liverpool: 0.5291013716295695
+   Crystal Palace: 0.31680281676029676
 
 LIVERPOOL IS THE WINNER!
 ---------------------------------------
 Match: 25/05/2025 (Newcastle VS Everton)
-   Newcastle: 0.28873815785245915
-   Everton: 0.35709697770351934
+   Newcastle: 0.4058622037695455
+   Everton: 0.31859141269699826
 
-EVERTON IS THE WINNER!
+NEWCASTLE IS THE WINNER!
 ---------------------------------------
 Match: 25/05/2025 (Fulham VS Man City)
-   Fulham: 0.4250949410889462
-   Man City: 0.6869180880539207
+   Fulham: 0.407650799706247
+   Man City: 0.7486197962634638
 
 MAN CITY IS THE WINNER!
 ---------------------------------------
 Match: 25/05/2025 (Nott'm Forest VS Chelsea)
-   Nott'm Forest: 0.4421846460517112
-   Chelsea: 0.3818293939835835
+   Nott'm Forest: 0.4301392209506469
+   Chelsea: 0.3500882996427212
 
 NOTT'M FOREST IS THE WINNER!
 ---------------------------------------
 Match: 25/05/2025 (Man United VS Aston Villa)
-   Man United: 0.40836609259181444
-   Aston Villa: 0.4752814865803412
+   Man United: 0.38605667643019786
+   Aston Villa: 0.4724331695343944
 
 ASTON VILLA IS THE WINNER!
 ---------------------------------------
 Match: 25/05/2025 (Wolves VS Brentford)
-   Wolves: 0.38327281984611694
-   Brentford: 0.3905546746977827
+   Wolves: 0.35366549151612414
+   Brentford: 0.3617796592490965
 
 BRENTFORD IS THE WINNER!
 ---------------------------------------
 Match: 25/05/2025 (Tottenham VS Brighton)
-   Tottenham: 0.5272723143999031
-   Brighton: 0.4160088039091136
+   Tottenham: 0.5416870292042955
+   Brighton: 0.395065142131521
 
 TOTTENHAM IS THE WINNER!
 ---------------------------------------
+
+
