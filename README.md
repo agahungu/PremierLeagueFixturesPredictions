@@ -2,22 +2,22 @@
 
 Python app predicting all the next winners in the England Premier League Championship by using linear regression.
 
-Purpose of this app :
+# Purpose of this app
 
 Predict all the next winners in the England Premier League Championship by using linear regression.
 
-How to use it?
+# How to use it?
 
 1. Open your CLI by using the Win+R (or ⌘ R) key combination. Then simply enter “cmd” in the input field and press OK.
 2. Trough your CLI, Clone this repo with this command **_git clone https://github.com/agahungu/PremierLeagueFixturesPredictions.git_**
-3. Navigate to the directory with this command **_cd PremierLeagueFixturesPredictions_**
-4. Install the dependencies with this command **_pip install -r requirements.txt_**
-5. Run the main app with this command **_python predictNextWinners.py_**
+4. Navigate to the directory with this command **_cd PremierLeagueFixturesPredictions_**
+5. Install the dependencies with this command **_pip install -r requirements.txt_**
+6. Run the main app with this command **_python predictNextWinners.py_**
 
 Tech stack : Python 3.10, Jupyter Notebook <br><br>
 Librairies : os, pandas, matplotlib.pyplot, seaborn, Scikit-Learn, joblib, csv
 
-Datasets :
+# Datasets
 
 Dataset 1 : Teams2425.csv
 
