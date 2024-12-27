@@ -9,7 +9,7 @@ Predict all the next winners in the England Premier League Championship by using
 # How to use it?
 
 1. Download and install python 3.12.6 **_https://www.python.org/downloads/_**
-2. Open your CLI by using the Win+R (or ⌘ R) key combination. Then simply enter “cmd” in the input field and press OK.
+2. Open your CLI by using the Win+R (or ⌘ + R on mac) key combination. Then simply enter “cmd” in the input field and press OK.
 3. Trough your CLI, Clone this repo with this command **_git clone https://github.com/agahungu/PremierLeagueFixturesPredictions.git_**
 4. Navigate to the directory with this command **_cd PremierLeagueFixturesPredictions_**
 5. Check if python is well installed by running this command **_python --version_**
