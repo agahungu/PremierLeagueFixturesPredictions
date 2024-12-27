@@ -12,8 +12,9 @@ Predict all the next winners in the England Premier League Championship by using
 2. Open your CLI by using the Win+R (or ⌘ R) key combination. Then simply enter “cmd” in the input field and press OK.
 3. Trough your CLI, Clone this repo with this command **_git clone https://github.com/agahungu/PremierLeagueFixturesPredictions.git_**
 4. Navigate to the directory with this command **_cd PremierLeagueFixturesPredictions_**
-5. Install the dependencies with this command **_pip install -r requirements.txt_**
-6. Run the main app with this command **_python predictNextWinners.py_**
+5. Check if python is well installed by running this command **_python --version_**
+6. Install the dependencies with this command **_pip install -r requirements.txt_**
+7. Run the main app with this command **_python predictNextWinners.py_**
 
 Tech stack : Python 3.12.6, Jupyter Notebook <br><br>
 Librairies : os, pandas, matplotlib.pyplot, seaborn, Scikit-Learn, joblib, csv
