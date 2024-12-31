@@ -489,82 +489,81 @@ E0,10/11/2024,14:00,Man United,Leicester,3,0,H,2,0,H,Man United,0,0,P Bankes
 E0,10/11/2024,14:00,Nott'm Forest,Newcastle,1,3,A,1,0,H,Newcastle,0,1,A Taylor
 E0,10/11/2024,14:00,Tottenham,Ipswich,1,2,A,0,2,A,Ipswich,0,0,D England
 E0,10/11/2024,16:30,Chelsea,Arsenal,1,1,D,0,0,D,Draw,0,0,M Oliver
-E0,23/11/2024,12:30,Leicester,Chelsea,,,,,,,,,,
-E0,23/11/2024,15:00,Arsenal,Nott'm Forest,,,,,,,,,,
-E0,23/11/2024,15:00,Bournemouth,Brighton,,,,,,,,,,
-E0,23/11/2024,15:00,Aston Villa,Crystal Palace,,,,,,,,,,
-E0,23/11/2024,15:00,Everton,Brentford,,,,,,,,,,
-E0,23/11/2024,15:00,Fulham,Wolves,,,,,,,,,,
-E0,23/11/2024,17:30,Man City,Tottenham,,,,,,,,,,
-E0,24/11/2024,14:00,Southampton,Liverpool,,,,,,,,,,
-E0,24/11/2024,16:30,Ipswich,Man United,,,,,,,,,,
-E0,25/11/2024,20:00,Newcastle,West Ham,,,,,,,,,,
-E0,29/11/2024,20:00,Brighton,Southampton,,,,,,,,,,
-E0,30/11/2024,15:00,Crystal Palace,Newcastle,,,,,,,,,,
-E0,30/11/2024,15:00,Wolves,Bournemouth,,,,,,,,,,
-E0,30/11/2024,15:00,Nott'm Forest,Ipswich,,,,,,,,,,
-E0,30/11/2024,15:00,Brentford,Leicester,,,,,,,,,,
-E0,30/11/2024,17:30,West Ham,Arsenal,,,,,,,,,,
-E0,01/12/2024,13:30,Chelsea,Aston Villa,,,,,,,,,,
-E0,01/12/2024,13:30,Tottenham,Fulham,,,,,,,,,,
-E0,01/12/2024,13:30,Man United,Everton,,,,,,,,,,
-E0,01/12/2024,16:00,Liverpool,Man City,,,,,,,,,,
-E0,03/12/2024,19:30,Ipswich,Crystal Palace,,,,,,,,,,
-E0,03/12/2024,20:15,Leicester,West Ham,,,,,,,,,,
-E0,04/12/2024,19:30,Everton,Wolves,,,,,,,,,,
-E0,04/12/2024,19:30,Newcastle,Liverpool,,,,,,,,,,
-E0,04/12/2024,19:30,Man City,Nott'm Forest,,,,,,,,,,
-E0,04/12/2024,19:30,Southampton,Chelsea,,,,,,,,,,
-E0,04/12/2024,20:15,Arsenal,Man United,,,,,,,,,,
-E0,04/12/2024,20:15,Aston Villa,Brentford,,,,,,,,,,
-E0,05/12/2024,19:30,Fulham,Brighton,,,,,,,,,,
-E0,05/12/2024,20:15,Bournemouth,Tottenham,,,,,,,,,,
-E0,07/12/2024,12:30,Everton,Liverpool,,,,,,,,,,
-E0,07/12/2024,15:00,Brentford,Newcastle,,,,,,,,,,
-E0,07/12/2024,15:00,Crystal Palace,Man City,,,,,,,,,,
-E0,07/12/2024,15:00,Aston Villa,Southampton,,,,,,,,,,
-E0,07/12/2024,17:30,Man United,Nott'm Forest,,,,,,,,,,
-E0,08/12/2024,14:00,Fulham,Arsenal,,,,,,,,,,
-E0,08/12/2024,14:00,Ipswich,Bournemouth,,,,,,,,,,
-E0,08/12/2024,14:00,Leicester,Brighton,,,,,,,,,,
-E0,08/12/2024,16:30,Tottenham,Chelsea,,,,,,,,,,
-E0,09/12/2024,20:00,West Ham,Wolves,,,,,,,,,,
-E0,14/12/2024,15:00,Newcastle,Leicester,,,,,,,,,,
-E0,14/12/2024,15:00,Arsenal,Everton,,,,,,,,,,
-E0,14/12/2024,15:00,Wolves,Ipswich,,,,,,,,,,
-E0,14/12/2024,15:00,Liverpool,Fulham,,,,,,,,,,
-E0,14/12/2024,17:30,Nott'm Forest,Aston Villa,,,,,,,,,,
-E0,15/12/2024,14:00,Brighton,Crystal Palace,,,,,,,,,,
-E0,15/12/2024,16:30,Man City,Man United,,,,,,,,,,
-E0,15/12/2024,19:00,Southampton,Tottenham,,,,,,,,,,
-E0,15/12/2024,19:00,Chelsea,Brentford,,,,,,,,,,
-E0,16/12/2024,20:00,Bournemouth,West Ham,,,,,,,,,,
-E0,21/12/2024,12:30,Aston Villa,Man City,,,,,,,,,,
-E0,21/12/2024,15:00,West Ham,Brighton,,,,,,,,,,
-E0,21/12/2024,15:00,Brentford,Nott'm Forest,,,,,,,,,,
-E0,21/12/2024,15:00,Ipswich,Newcastle,,,,,,,,,,
-E0,21/12/2024,17:30,Crystal Palace,Arsenal,,,,,,,,,,
-E0,22/12/2024,14:00,Man United,Bournemouth,,,,,,,,,,
-E0,22/12/2024,14:00,Fulham,Southampton,,,,,,,,,,
-E0,22/12/2024,14:00,Everton,Chelsea,,,,,,,,,,
-E0,22/12/2024,14:00,Leicester,Wolves,,,,,,,,,,
-E0,22/12/2024,16:30,Tottenham,Liverpool,,,,,,,,,,
-E0,26/12/2024,12:30,Man City,Everton,,,,,,,,,,
-E0,26/12/2024,15:00,Chelsea,Fulham,,,,,,,,,,
-E0,26/12/2024,15:00,Southampton,West Ham,,,,,,,,,,
-E0,26/12/2024,15:00,Bournemouth,Crystal Palace,,,,,,,,,,
-E0,26/12/2024,15:00,Newcastle,Aston Villa,,,,,,,,,,
-E0,26/12/2024,15:00,Nott'm Forest,Tottenham,,,,,,,,,,
-E0,26/12/2024,17:30,Wolves,Man United,,,,,,,,,,
-E0,26/12/2024,20:00,Liverpool,Leicester,,,,,,,,,,
-E0,27/12/2024,19:30,Brighton,Brentford,,,,,,,,,,
-E0,27/12/2024,20:15,Arsenal,Ipswich,,,,,,,,,,
-E0,29/12/2024,14:30,Leicester,Man City,,,,,,,,,,
-E0,29/12/2024,15:00,Tottenham,Wolves,,,,,,,,,,
-E0,29/12/2024,15:00,Fulham,Bournemouth,,,,,,,,,,
-E0,29/12/2024,15:00,Everton,Nott'm Forest,,,,,,,,,,
-E0,29/12/2024,15:00,Crystal Palace,Southampton,,,,,,,,,,
-E0,29/12/2024,17:15,West Ham,Liverpool,,,,,,,,,,
+E0,23/11/2024,12:30,Leicester,Chelsea,1,2,A,0,1,A,Chelsea,0,0,A Madley
+E0,23/11/2024,15:00,Arsenal,Nott'm Forest,3,0,H,1,0,H,Arsenal,0,0,S Hooper
+E0,23/11/2024,15:00,Aston Villa,Crystal Palace,2,2,D,1,2,A,Draw,0,0,T Robinson
+E0,23/11/2024,15:00,Bournemouth,Brighton,1,2,A,0,1,A,Brighton,0,0,S Attwell
+E0,23/11/2024,15:00,Everton,Brentford,0,0,D,0,0,D,Draw,0,0,C Kavanagh
+E0,23/11/2024,15:00,Fulham,Wolves,1,4,A,1,1,D,Wolves,0,0,R Jones
+E0,23/11/2024,17:30,Man City,Tottenham,0,4,A,0,2,A,Tottenham,0,0,J Brooks
+E0,24/11/2024,14:00,Southampton,Liverpool,2,3,A,1,1,D,Liverpool,0,0,S Barrott
+E0,24/11/2024,16:30,Ipswich,Man United,1,1,D,1,1,D,Draw,0,0,A Taylor
+E0,25/11/2024,20:00,Newcastle,West Ham,0,2,A,0,1,A,West Ham,0,0,C Pawson
+E0,29/11/2024,20:00,Brighton,Southampton,1,1,D,1,0,H,Draw,0,0,R Jones
+E0,30/11/2024,15:00,Brentford,Leicester,4,1,H,3,1,H,Brentford,0,0,M Oliver
+E0,30/11/2024,15:00,Crystal Palace,Newcastle,1,1,D,0,0,D,Draw,0,0,D England
+E0,30/11/2024,15:00,Nott'm Forest,Ipswich,1,0,H,0,0,D,Nott'm Forest,0,0,T Harrington
+E0,30/11/2024,15:00,Wolves,Bournemouth,2,4,A,1,3,A,Bournemouth,0,0,P Bankes
+E0,30/11/2024,17:30,West Ham,Arsenal,2,5,A,2,5,A,Arsenal,0,0,A Taylor
+E0,01/12/2024,13:30,Chelsea,Aston Villa,3,0,H,2,0,H,Chelsea,0,0,S Attwell
+E0,01/12/2024,13:30,Man United,Everton,4,0,H,2,0,H,Man United,0,0,J Brooks
+E0,01/12/2024,13:30,Tottenham,Fulham,1,1,D,0,0,D,Draw,0,0,D Bond
+E0,01/12/2024,16:00,Liverpool,Man City,2,0,H,1,0,H,Liverpool,0,0,C Kavanagh
+E0,03/12/2024,19:30,Ipswich,Crystal Palace,0,1,A,0,0,D,Crystal Palace,0,0,C Pawson
+E0,03/12/2024,20:15,Leicester,West Ham,3,1,H,1,0,H,Leicester,0,0,J Smith
+E0,04/12/2024,19:30,Everton,Wolves,4,0,H,2,0,H,Everton,0,0,M Salisbury
+E0,04/12/2024,19:30,Man City,Nott'm Forest,3,0,H,2,0,H,Man City,0,0,M Oliver
+E0,04/12/2024,19:30,Newcastle,Liverpool,3,3,D,1,0,H,Draw,0,0,A Madley
+E0,04/12/2024,19:30,Southampton,Chelsea,1,5,A,1,3,A,Chelsea,0,0,T Harrington
+E0,04/12/2024,20:15,Arsenal,Man United,2,0,H,0,0,D,Arsenal,0,0,S Barrott
+E0,04/12/2024,20:15,Aston Villa,Brentford,3,1,H,3,0,H,Aston Villa,0,0,L Smith
+E0,05/12/2024,19:30,Fulham,Brighton,3,1,H,1,0,H,Fulham,0,0,P Bankes
+E0,05/12/2024,20:15,Bournemouth,Tottenham,1,0,H,1,0,H,Bournemouth,0,0,S Hooper
+E0,07/12/2024,15:00,Aston Villa,Southampton,1,0,H,1,0,H,Aston Villa,0,0,D Bond
+E0,07/12/2024,15:00,Brentford,Newcastle,4,2,H,2,2,D,Brentford,0,0,T Robinson
+E0,07/12/2024,15:00,Crystal Palace,Man City,2,2,D,1,1,D,Draw,0,0,R Jones
+E0,07/12/2024,17:30,Man United,Nott'm Forest,2,3,A,1,1,D,Nott'm Forest,0,0,D England
+E0,08/12/2024,14:00,Fulham,Arsenal,1,1,D,1,0,H,Draw,0,0,C Kavanagh
+E0,08/12/2024,14:00,Ipswich,Bournemouth,1,2,A,1,0,H,Bournemouth,0,1,M Salisbury
+E0,08/12/2024,14:00,Leicester,Brighton,2,2,D,0,1,A,Draw,0,0,S Attwell
+E0,08/12/2024,16:30,Tottenham,Chelsea,3,4,A,2,1,H,Chelsea,0,1,A Taylor
+E0,09/12/2024,20:00,West Ham,Wolves,2,1,H,0,0,D,West Ham,0,0,J Brooks
+E0,14/12/2024,15:00,Arsenal,Everton,0,0,D,0,0,D,Draw,0,0,C Pawson
+E0,14/12/2024,15:00,Liverpool,Fulham,2,2,D,0,1,A,Draw,0,0,T Harrington
+E0,14/12/2024,15:00,Newcastle,Leicester,4,0,H,1,0,H,Newcastle,0,0,T Bramall
+E0,14/12/2024,15:00,Wolves,Ipswich,1,2,A,0,1,A,Ipswich,0,0,S Hooper
+E0,14/12/2024,17:30,Nott'm Forest,Aston Villa,2,1,H,0,0,D,Nott'm Forest,0,0,S Barrott
+E0,15/12/2024,14:00,Brighton,Crystal Palace,1,3,A,0,2,A,Crystal Palace,0,0,M Oliver
+E0,15/12/2024,16:30,Man City,Man United,1,2,A,1,0,H,Man United,0,1,A Taylor
+E0,15/12/2024,19:00,Chelsea,Brentford,2,1,H,1,0,H,Chelsea,0,0,P Bankes
+E0,15/12/2024,19:00,Southampton,Tottenham,0,5,A,0,5,A,Tottenham,0,0,D England
+E0,16/12/2024,20:00,Bournemouth,West Ham,1,1,D,0,0,D,Draw,0,0,C Kavanagh
+E0,21/12/2024,12:30,Aston Villa,Man City,2,1,H,1,0,H,Aston Villa,0,0,P Bankes
+E0,21/12/2024,15:00,Brentford,Nott'm Forest,0,2,A,0,1,A,Nott'm Forest,0,0,M Oliver
+E0,21/12/2024,15:00,Ipswich,Newcastle,0,4,A,0,3,A,Newcastle,0,0,S Attwell
+E0,21/12/2024,15:00,West Ham,Brighton,1,1,D,0,0,D,Draw,0,0,R Jones
+E0,21/12/2024,17:30,Crystal Palace,Arsenal,1,5,A,1,3,A,Arsenal,0,0,S Hooper
+E0,22/12/2024,14:00,Everton,Chelsea,0,0,D,0,0,D,Draw,0,0,C Kavanagh
+E0,22/12/2024,14:00,Fulham,Southampton,0,0,D,0,0,D,Draw,0,0,T Robinson
+E0,22/12/2024,14:00,Leicester,Wolves,0,3,A,0,3,A,Wolves,0,0,A Taylor
+E0,22/12/2024,14:00,Man United,Bournemouth,0,3,A,0,1,A,Bournemouth,0,0,C Pawson
+E0,22/12/2024,16:30,Tottenham,Liverpool,3,6,A,1,3,A,Liverpool,0,0,S Barrott
+E0,26/12/2024,12:30,Man City,Everton,1,1,D,1,1,D,Draw,0,0,S Hooper
+E0,26/12/2024,15:00,Bournemouth,Crystal Palace,0,0,D,0,0,D,Draw,0,0,T Bramall
+E0,26/12/2024,15:00,Chelsea,Fulham,1,2,A,1,0,H,Fulham,0,1,S Barrott
+E0,26/12/2024,15:00,Newcastle,Aston Villa,3,0,H,1,0,H,Newcastle,0,0,A Taylor
+E0,26/12/2024,15:00,Nott'm Forest,Tottenham,1,0,H,1,0,H,Nott'm Forest,0,0,C Pawson
+E0,26/12/2024,15:00,Southampton,West Ham,0,1,A,0,0,D,West Ham,0,0,L Smith
+E0,26/12/2024,17:30,Wolves,Man United,2,0,H,0,0,D,Wolves,0,0,T Harrington
+E0,26/12/2024,20:00,Liverpool,Leicester,3,1,H,1,1,D,Liverpool,0,0,D Bond
+E0,27/12/2024,19:30,Brighton,Brentford,0,0,D,0,0,D,Draw,0,0,A Madley
+E0,27/12/2024,20:15,Arsenal,Ipswich,1,0,H,1,0,H,Arsenal,0,0,D England
+E0,29/12/2024,14:30,Leicester,Man City,0,2,A,0,1,A,Man City,0,0,M Oliver
+E0,29/12/2024,15:00,Crystal Palace,Southampton,2,1,H,1,1,D,Crystal Palace,0,0,M Salisbury
+E0,29/12/2024,15:00,Everton,Nott'm Forest,0,2,A,0,1,A,Nott'm Forest,0,0,T Harrington
+E0,29/12/2024,15:00,Fulham,Bournemouth,2,2,D,1,0,H,Draw,0,0,R Jones
+E0,29/12/2024,15:00,Tottenham,Wolves,2,2,D,2,1,H,Draw,0,0,C Kavanagh
+E0,29/12/2024,17:15,West Ham,Liverpool,0,5,A,0,3,A,Liverpool,0,0,A Taylor
 E0,30/12/2024,19:45,Aston Villa,Brighton,,,,,,,,,,
 E0,30/12/2024,19:45,Ipswich,Chelsea,,,,,,,,,,
 E0,30/12/2024,20:00,Man United,Newcastle,,,,,,,,,,
