@@ -16,8 +16,11 @@ Predict all the next winners in the England Premier League Championship by using
 6. Install the dependencies with this command **_pip install -r requirements.txt_**
 7. Run the main app with this command **_python predictNextWinners.py_**
 
+Accuracy : 0.6156325922701607
+
 Tech stack : Python 3.12.6, Jupyter Notebook <br><br>
 Librairies : os, pandas, matplotlib.pyplot, seaborn, Scikit-Learn, joblib, csv
+
 
 # Datasets
 
