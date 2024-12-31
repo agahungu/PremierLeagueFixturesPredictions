@@ -18,7 +18,7 @@ Predict all the next winners in the England Premier League Championship by using
 
 Tech stack : Python 3.12.6, Jupyter Notebook <br><br>
 Librairies : os, pandas, matplotlib.pyplot, seaborn, Scikit-Learn, joblib, csv
-Accuracy =0.6156325922701607
+Accuracy : 0.6156325922701607
 
 # Datasets
 
