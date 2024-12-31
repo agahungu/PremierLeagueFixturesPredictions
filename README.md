@@ -16,19 +16,19 @@ Predict all the next winners in the England Premier League Championship by using
 6. Install the dependencies with this command **_pip install -r requirements.txt_**
 7. Run the main app with this command **_python predictNextWinners.py_**
 
-Accuracy r2_score : 0.6156325922701607
+Accuracy r2_score: 0.6156325922701607
 
-Tech stack : Python 3.12.6, Jupyter Notebook <br><br>
-Librairies : os, pandas, matplotlib.pyplot, seaborn, Scikit-Learn, joblib, csv
+Tech stack: Python 3.12.6, Jupyter Notebook <br><br>
+Librairies: os, pandas, matplotlib.pyplot, seaborn, Scikit-Learn, joblib, csv
 
 
 # Datasets
 
-Dataset 1 : Teams2425.csv
+Dataset 1: Teams2425.csv
 
 Contains insights about the teams <br><br>
 
-Team : Name of the team <br>
+Team: Name of the team <br>
 Minutes: Total minutes played <br>
 Goals: Number of goals scored <br>
 Assists: Number of assists <br>
