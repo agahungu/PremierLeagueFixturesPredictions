@@ -53,9 +53,9 @@ Progressive Carries: Carries advancing the ball significantly toward the opponen
 Dribble Attempts: Total dribbles attempted <br>
 Successful Dribbles: Total successful dribbles <br>
 
-Raw source : Eduardo Palmieri from Kaggle
+Raw source: Eduardo Palmieri from Kaggle
 
-Dataset 2 : Fixtures2325.csv
+Dataset 2: Fixtures2325.csv
 
 Contains insights about the fixtures from 2023 to 2025 <br><br>
 
@@ -75,4 +75,4 @@ HREMONTADA: Home remontada <br>
 AREMONTADA: Away remontada <br>
 Referee: Name of the referee <br>
 
-Raw source : https://www.football-data.co.uk/englandm.php
+Raw source: https://www.football-data.co.uk/englandm.php
