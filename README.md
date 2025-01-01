@@ -70,7 +70,7 @@ FTR: Full time result <br>
 HTHG: Half time home goals <br>
 HTAG: Half time away goals <br>
 HTR: Half time result <br>
-Winner: Name of the winner the match and « Draw » if no winner <br>
+Winner: Name of the winner of the game and « Draw » if no winner <br>
 HREMONTADA: Home remontada <br>
 AREMONTADA: Away remontada <br>
 Referee: Name of the referee <br>
