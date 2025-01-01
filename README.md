@@ -46,7 +46,7 @@ Shot-Creating Actions: Actions leading to a shot attempt <br>
 Goal-Creating Actions: Actions leading to a goal <br>
 Passes Completed: Successful passes completed <br>
 Passes Attempted: Total passes attempted <br>
-Pass Completion %: Pass completion rate, expressed as a percentage (some entries have missing values here) <br>
+Pass Completion: Pass completion rate <br>
 Progressive Passes: Passes advancing the ball significantly toward the opponent’s goal <br>
 Carries: Total ball carries <br>
 Progressive Carries: Carries advancing the ball significantly toward the opponent’s goal <br>
