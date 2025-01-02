@@ -10,7 +10,7 @@ def searchTeamInsights(nameTeam):
 
         for team in plTeams:
             if str(team[1]) == nameTeam:
-                # "Team", "Progressive Carries","Successful Dribbles"
+                # "Team", "Total Shoot", "Progressive Carries"
                 teamInsights = [team[1], team[7], team[22]]
                 break
 
